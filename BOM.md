@@ -1,3 +1,5 @@
+
+
 | Item | Qty | Unit Cost | Total Cost | Link | Notes |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | **MG996R Servos** | 3 | $18.49 | $55.47 | [Amazon Link](https://www.amazon.com/gp/product/B07MFK266B/ref=ox_sc_act_title_26?smid=A2QTZX14X1D97I&th=1) | need 1 order of 4 servos for my build but 12 mg996rs are required in total |
