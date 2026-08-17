@@ -17,3 +17,4 @@ Rails
 5.0 V  logic (UBEC) to ESP32, PCA9685, MPU6050, Pi, mic, amp
 GND    all returns to bar at battery negative
 
+<img width="868" height="1148" alt="image" src="https://github.com/user-attachments/assets/4f64096d-4e62-4705-87a5-5e82651efc90" />
