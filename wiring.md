@@ -16,3 +16,6 @@ Rails
 5.5 V  servo bus (XL4016) to 16 servos, 4700 µF at distribution
 5.0 V  logic (UBEC) to ESP32, PCA9685, MPU6050, Pi, mic, amp
 GND    all returns to bar at battery negative
+
+<img width="868" height="1148" alt="image" src="https://github.com/user-attachments/assets/885e2747-19e0-4daf-ad53-0bd3fddd2a92" />
+
