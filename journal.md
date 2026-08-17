@@ -1,9 +1,11 @@
 
-Title,Flathead
-Author,Mike
-Description,"A 12-DOF quadruped that walks, balances, and is based off of the flathead robot from Cyberpunk 2077"
-Created At,2026-08-4
 
+| | |
+| :--- | :--- |
+| **Title** | Flathead |
+| **Author** | Mike |
+| **Description** | A 12-DOF quadruped that walks, balances, and looks like it crawled out of Night City |
+| **Created At** | 2026-08-16 |
 
 Entry 1: 2026-08-5
 ![alt text](image-2.png)
