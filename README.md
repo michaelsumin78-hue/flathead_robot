@@ -1,11 +1,6 @@
-# flathead_robot
-4 legged robot with autonomous vision based off of the cyberpunk 2077 robot
-This robot will have autonomous vision powered using the raspberry pi zero while using the esp32 for the walking gaits
-robot should be able to speak using speaker and microphone
-all modeled in fusion 360
-2 arms are attached to the robot to be able pick up basic light weight objects
+This is a 3D-printed 12-DOF quadruped robot based on the Flathead from Cyberpunk 2077, running inverse kinematics and gyroscope-based attitude control on an ESP32 S3. This project came from my love for the Cyberpunk series and the game itself, which the robot comes from. I thought it would be a fun project to spend time working on over the summer and to improve my skills. I reiterated my fixes basedd off of correcting geometry to ensure the horizontal components cancel out while the foot lands under the hip. This should let me achieve the sprawled Flathead look I am going for without paying the price in torque.
 
-
+![alt text](image.png)
 
 | Item | Qty | Unit Cost | Total Cost | Link | Notes |
 | :--- | :---: | :--- | :--- | :--- | :--- |
