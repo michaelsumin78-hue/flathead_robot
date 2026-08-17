@@ -25,9 +25,9 @@
 | **Jumper Wires** | 1 | $6.98 | $6.98 | [Amazon Link](https://www.amazon.com/dp/B01EV70C78) | |
 | **MAX98357A I2S Amplifier** | 1 | $6.88 | $6.88 | [Amazon Link](https://www.amazon.com/dp/B0DPJRLMDJ) | |
 | **INMP441 I2S Microphone** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/dp/B0972XP1YS) | |
-| **4 Ohm Speaker** | 1 | $0.00 | $0.00 | [Amazon Link](https://www.amazon.com/dp/B0BTP67F81) | |
-| **PCA9685 PWM Driver** | 1 | $0.00 | $0.00 | [Amazon Link](https://www.amazon.com/dp/B07BRS249H) | |
-| **M3 Hardware Assortment** | 1 | $0.00 | $0.00 | [Amazon Link](https://www.amazon.com/dp/B0FGV5FCBN) | on hand |
-| **MPU6050 IMU** | 1 | $0.00 | $0.00 | [Amazon Link](https://www.amazon.com/dp/B01DK83ZYQ) | on hand |
-| **Metal Servo Horns** | 2 | $0.00 | $0.00 | [Amazon Link](https://www.amazon.com/dp/B09CT7QK6C) | |
-| **GRAND TOTAL** | | | **$346.50** | | |
+| **4 Ohm Speaker** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/dp/B0BTP67F81) | |
+| **PCA9685 PWM Driver** | 1 | $13.99 | $13.99 | [Amazon Link](https://www.amazon.com/dp/B07BRS249H) | |
+| **M3 Hardware Assortment** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/dp/B0FGV5FCBN) | on hand |
+| **MPU6050 IMU** | 1 | $11.79 | $11.79 | [Amazon Link](https://www.amazon.com/dp/B01DK83ZYQ](https://www.amazon.com/dp/B00LP25V1A/ref=twister_B078SS8NQV?_encoding=UTF8&th=1)) | on hand |
+| **Metal Servo Horns** | 2 | $6.99 | $13.98 | [Amazon Link](https://www.amazon.com/dp/B09CT7QK6C) | |
+| **GRAND TOTAL** | | | **$426.23** | | |
