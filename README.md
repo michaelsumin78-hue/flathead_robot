@@ -1,7 +1,14 @@
 This is a 3D-printed 12-DOF quadruped robot based on the Flathead from Cyberpunk 2077, running inverse kinematics and gyroscope-based attitude control on an ESP32 S3. This project came from my love for the Cyberpunk series and the game itself, which the robot comes from. I thought it would be a fun project to spend time working on over the summer and to improve my skills. I reiterated my fixes basedd off of correcting geometry to ensure the horizontal components cancel out while the foot lands under the hip. This should let me achieve the sprawled Flathead look I am going for without paying the price in torque.
 
-![alt text](image.png)
 
+
+CAD:
+![alt text](image.png)
+![alt text](image-1.png)
+
+
+
+BOM:
 | Item | Qty | Unit Cost | Total Cost | Link | Notes |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | **MG996R Servos** | 3 | $18.49 | $55.47 | [Amazon Link](https://www.amazon.com/gp/product/B07MFK266B/ref=ox_sc_act_title_26?smid=A2QTZX14X1D97I&th=1) | need 1 order of 4 servos for my build but 12 mg996rs are required in total |
@@ -33,3 +40,6 @@ This is a 3D-printed 12-DOF quadruped robot based on the Flathead from Cyberpunk
 | **MPU6050 IMU** | 1 | $11.79 | $11.79 | [Amazon Link](https://www.amazon.com/dp/B01DK83ZYQ](https://www.amazon.com/dp/B00LP25V1A/ref=twister_B078SS8NQV?_encoding=UTF8&th=1)) | on hand |
 | **Metal Servo Horns** | 2 | $6.99 | $13.98 | [Amazon Link](https://www.amazon.com/dp/B09CT7QK6C) | |
 | **GRAND TOTAL** | | | **$426.23** | | |
+
+
+
