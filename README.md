@@ -3,8 +3,10 @@ This is a 3D-printed 12-DOF quadruped robot based on the Flathead from Cyberpunk
 
 
 CAD:
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="1088" height="832" alt="image" src="https://github.com/user-attachments/assets/c226117c-3d4e-4fdf-8c5f-0dfd65b4f0f7" />
+<img width="1033" height="1109" alt="image" src="https://github.com/user-attachments/assets/23118008-e131-45c8-95d9-e2d7bf83bce1" />
+
+
 
 
 
