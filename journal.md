@@ -7,6 +7,9 @@
 | **Description** | A 12-DOF quadruped that walks, balances, and looks like it crawled out of Night City |
 | **Created At** | 2026-08-16 |
 
+
+
+
 Leg Making
 
 ![image](https://cdn.hackclub.com/01a010c0-a160-79ed-93fc-5f1c62bb4d16/image.png)
@@ -18,6 +21,9 @@ This is the first part to the start of my leg design is more of a rough draft. Y
 This is where I started mapping out the general shape of the leg. I pulled up a 3d model of the in game version of the robot and tried to model it to get as close as possible while accounting for the lengths of the joints which I tried keeping around 75mm so the math for IK will be easier to do.
 
 ![image](https://cdn.hackclub.com/01a010c6-20af-7853-8144-d43114047cd6/image.png)
+
+
+
 
 Body work done before vacation
 
@@ -33,6 +39,9 @@ The attached image displays some of the final progress I would make before going
 ![image](https://cdn.hackclub.com/01a010ce-01fc-7796-a631-371d05beb9de/image.png)
 
 A lot of this was purely cosmetic and just so I could feel happy about the state of the project before I leave.
+
+
+
 
 Body and Arm Development
 
@@ -56,6 +65,9 @@ I have attached the 3d model I used for the rack and pinion gear which I have bu
 
 Side Note: 
 I mirrored the leg designs on all sides but it was about one command so I avoided going too in depth on it.
+
+
+
 
 Final Modeling Details
 
