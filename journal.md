@@ -99,3 +99,12 @@ This is the compartment the battery will be going and I added small latches to k
 
 For the finishing touches I added somewhere to keep the speaker in place on the outside to project the robot's voice better and I also made a couple more adjustments to the back to make it more visually appealing.
 
+
+
+
+Leg Redesign
+
+<img width="1393" height="1017" alt="image" src="https://github.com/user-attachments/assets/3316ef01-2397-4028-a152-895e831bb6de" />
+
+I have spent some time improving the leg design in both form and lengths for femur and tibia. I have added a component that I intend to be printed in TPU at the feet in order to keep friction at the feet.
+
