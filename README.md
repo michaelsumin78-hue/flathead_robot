@@ -1,47 +1,68 @@
-This is a 3D-printed 12-DOF quadruped robot based on the Flathead from Cyberpunk 2077, running inverse kinematics and gyroscope-based attitude control on an ESP32 S3. This project came from my love for the Cyberpunk series and the game itself, which the robot comes from. I thought it would be a fun project to spend time working on over the summer and to improve my skills. I reiterated my fixes basedd off of correcting geometry to ensure the horizontal components cancel out while the foot lands under the hip. This should let me achieve the sprawled Flathead look I am going for without paying the price in torque.
+Flathead Autonomous Quadruped
+
+3D printed Autonomous Quadruped robot using camera vision, all inspired by the Cyberpunk 2077 flathead robot.
+
+
+<img width="762" height="527" alt="image" src="https://github.com/user-attachments/assets/cbe4c10c-e4d5-4e79-80c2-4a57103146f8" />
 
 
 
-CAD:
-<img width="1088" height="832" alt="image" src="https://github.com/user-attachments/assets/c226117c-3d4e-4fdf-8c5f-0dfd65b4f0f7" />
-<img width="1033" height="1109" alt="image" src="https://github.com/user-attachments/assets/23118008-e131-45c8-95d9-e2d7bf83bce1" />
 
 
+Demo Link:
+
+https://drive.google.com/file/d/12_6V4TeB604TGq49_DJ_Ktc-aOF2DAQ_/view?usp=drive_link
 
 
+Features:
 
-BOM:
-| Item | Qty | Unit Cost | Total Cost | Link | Notes |
-| :--- | :---: | :--- | :--- | :--- | :--- |
-| **MG996R Servos** | 3 | $18.49 | $55.47 | [Amazon Link](https://www.amazon.com/gp/product/B07MFK266B/ref=ox_sc_act_title_26?smid=A2QTZX14X1D97I&th=1) | need 1 order of 4 servos for my build but 12 mg996rs are required in total |
-| **MG90 Servos** | 1 | $23.98 | $23.98 | [Amazon Link](https://www.amazon.com/gp/product/B01JY3H4MA/ref=ox_sc_act_title_1?smid=A2QTZX14X1D97I&th=1) | order 1 pack of 8 servos |
-| **TPU Filament** | 1 | $23.99 | $23.99 | [Amazon Link](https://www.amazon.com/gp/product/B07VDP2S3P/ref=ox_sc_act_title_18?smid=A3M6OB6YPLO1C&psc=1) | |
-| **2S 2200 mAh 7.4V LIPO** | 1 | $16.92 | $16.92 | [Amazon Link](https://www.amazon.com/gp/product/B0GS2FYJJZ/ref=ox_sc_act_title_17?smid=A1KODDOPEPALCP&psc=1) | |
-| **XT60 Plug** | 1 | $8.99 | $8.99 | [Amazon Link](https://www.amazon.com/gp/product/B07QH249CR/ref=ox_sc_act_title_16?smid=A1JTH8JAMM4IYJ&psc=1) | |
-| **Buck Converter for Servos** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/gp/product/B07R832BRX/ref=ox_sc_act_title_15?smid=A323VFV6W4CN1S&th=1) | |
-| **Buck Converter for ESP** | 1 | $11.69 | $11.69 | [Amazon Link](https://www.amazon.com/gp/product/B07DYXTX9H/ref=ox_sc_act_title_14?smid=A3S8HDX1Z449C4&psc=1) | |
-| **4700 UF Capacitor** | 1 | $7.99 | $7.99 | [Amazon Link](https://www.amazon.com/gp/product/B0CMQ9MSR9/ref=ox_sc_act_title_13?smid=A3FX7C4A9P37IQ&th=1) | |
-| **Wire Stripper** | 1 | $7.99 | $7.99 | [Amazon Link](https://www.amazon.com/gp/product/B0DYP7CFZZ/ref=ox_sc_act_title_12?smid=A2XIB5KSNI66BC&psc=1) | |
-| **Heat Shrink** | Pack | $6.99 | $6.99 | [Amazon Link](https://www.amazon.com/gp/product/B0GVBMYTXY/ref=ox_sc_act_title_11?smid=AMQGUUYQT32RH&th=1) | |
-| **Lipo Voltage Checker** | 1 | $6.99 | $6.99 | [Amazon Link](https://www.amazon.com/gp/product/B07VR4SV8C/ref=ox_sc_act_title_13?smid=A2ZY5CARD1LVTF&th=1) | |
-| **18 Gauge Wire** | Roll | $8.89 | $8.89 | [Amazon Link](https://www.amazon.com/gp/product/B01LZRV0HV/ref=ox_sc_act_title_8?smid=AKJJC2TC2V4Y0&th=1) | |
-| **14 Gauge Wire** | Roll | $10.19 | $10.19 | [Amazon Link](https://www.amazon.com/gp/product/B0DKFXHKMG/ref=ox_sc_act_title_7?smid=A1MO6ENYE5ZB9E&th=1) | |
-| **ESP Dev Board** | 1 | $15.99 | $15.99 | [Amazon Link](https://www.amazon.com/gp/product/B0C7C2HQ7P/ref=ox_sc_act_title_6?th=1) | |
-| **PETG Filament** | 1 | $13.22 | $13.22 | [Amazon Link](https://www.amazon.com/gp/product/B07PGYHYV8/ref=ox_sc_act_title_4?smid=A3M6OB6YPLO1C&psc=1) | |
-| **Lipo Charger** | 1 | $37.99 | $37.99 | [Amazon Link](https://www.amazon.com/dp/B0G6KTKQ7F) | |
-| **Raspberry Pi Zero** | 1 | $34.99 | $34.99 | [Amazon Link](https://www.amazon.com/gp/product/B0FN4CN7TM/ref=ox_sc_act_title_5?smid=A1GMZO8N77UCMQ&psc=1) | |
-| **Raspberry Pi Zero Supplies**| 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/gp/product/B075FLGWJL/ref=ox_sc_act_title_6?smid=A3DUZJNIM9L5CV&th=1) | |
-| **Fuse** | 1 | $14.39 | $14.39 | [Amazon Link](https://www.amazon.com/dp/B07Q9PL4R6) | |
-| **Pi Zero Camera** | 1 | $16.00 | $16.00 | [Amazon Link](https://www.amazon.com/dp/B07G9VLPZH) | |
-| **Jumper Wires** | 1 | $6.98 | $6.98 | [Amazon Link](https://www.amazon.com/dp/B01EV70C78) | |
-| **MAX98357A I2S Amplifier** | 1 | $6.88 | $6.88 | [Amazon Link](https://www.amazon.com/dp/B0DPJRLMDJ) | |
-| **INMP441 I2S Microphone** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/dp/B0972XP1YS) | |
-| **4 Ohm Speaker** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/dp/B0BTP67F81) | |
-| **PCA9685 PWM Driver** | 1 | $13.99 | $13.99 | [Amazon Link](https://www.amazon.com/dp/B07BRS249H) | |
-| **M3 Hardware Assortment** | 1 | $9.99 | $9.99 | [Amazon Link](https://www.amazon.com/dp/B0FGV5FCBN) | on hand |
-| **MPU6050 IMU** | 1 | $11.79 | $11.79 | [Amazon Link](https://www.amazon.com/dp/B01DK83ZYQ](https://www.amazon.com/dp/B00LP25V1A/ref=twister_B078SS8NQV?_encoding=UTF8&th=1)) | on hand |
-| **Metal Servo Horns** | 2 | $6.99 | $13.98 | [Amazon Link](https://www.amazon.com/dp/B09CT7QK6C) | |
-| **GRAND TOTAL** | | | **$426.23** | | |
+(Work in progress)
 
+-Quadruped robot with 3DOF per leg
+
+-Robot uses AI vision through the Pi camera to navigate its envrionment
+
+-Robot uses AI and Elevenlabs to simulate a rogue AI from Cyberpunk 2077 and can be spoken to
+
+-LEDs light up the front of the robot
+
+-Robotic arms with 3DOF per arm to pick up items
+
+
+How to run it locally:
+
+Available now — leg inverse kinematics (no hardware required):
+
+Requires g++ (C++11 or later).
+
+    git clone https://github.com/michaelsumin78-hue/flathead_robot.git
+    cd flathead_robot/flathead-quadruped_code
+    g++ -O2 -o test_ik test_ik.cpp
+    ./test_ik
+
+Expected output: round-trip error of 0.0000mm on every test case, plus
+standing pose a swing phase sweep
+
+
+Coming once the hardware is built:
+
+[ ] ESP32-S3 firmware flash (PlatformIO project, board config TBD)
+
+[ ] Gait engine running on hardware
+
+[ ] Pi-side vision and voice pipeline setup
+
+[ ] Full bring-up sequence: power-on order, safety checks, first servo test
+
+
+How I made this:
+The leg geomoetry went through several revisions driven primarily by torque calculation. To add on, the project was initially intended to use dog-like leg structure but I decided to scrap that and redo the legs after looking at in game footage of the robot in Cyberpunk and seeing videos of people developing spider robots that use a different degree of rotation. When I redid, I changed the leg design visually in many ways, but I also added a slot to have a TPU printed part at the soles of the feet to allow more friction and therefore allow the robot to walk easier.
+
+The overall body was developed by using a 3D model to look around the entire body and see how I should model the robot to remain faithful to the game. I did however have to take some creative liberties of my own as I realized that certain parts of the in game robot were not desirable in my project. I added more interior space to have more room for the electronics, cut out parts of the front to have LEDS visible, adjusted certain parts to be longer or shaped differently to hold motors and what not. I also had to slice the robot in half between the leg and the back torso containing the battery as I realized not only would most commercial printers not be able to print the entire thing in one sitting because of the robot's length, but it would also take far too long as just the front of the bot takes 14 hours optimally to print.
+
+Credits:
+https://grabcad.com/library/rack-and-pinion-gear-precision-linear-motion-cad-assembly-mechanical-power-transmission-design-1 
+
+Credit to Muhammad Qasim Sajid for creating the rack and pinion gear which I built part of the arm design off of.
 
 
