@@ -19,10 +19,8 @@ GND    all returns to bar at battery negative
 
 
 Updated Wiring Draft
-<img width="774" height="554" alt="image" src="https://github.com/user-attachments/assets/4fffebd9-f47c-4e18-b2ae-987cd7d028d9" />
+
+<img width="754" height="471" alt="image" src="https://github.com/user-attachments/assets/20f05d4b-6e3d-4e96-8221-64b9d3b117b6" />
 
 
 
-
-Old messy version:
-<img width="868" height="1148" alt="image" src="https://github.com/user-attachments/assets/4f64096d-4e62-4705-87a5-5e82651efc90" />
