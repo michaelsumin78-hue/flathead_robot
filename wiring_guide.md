@@ -20,7 +20,11 @@ GND    all returns to bar at battery negative
 
 Updated Wiring Draft
 
-<img width="754" height="471" alt="image" src="https://github.com/user-attachments/assets/20f05d4b-6e3d-4e96-8221-64b9d3b117b6" />
+<img width="754" height="554" alt="image" src="https://github.com/user-attachments/assets/058cbddc-d5e5-4bf8-898d-a57a99beb13a" />
 
 
+
+Closer Look:
+
+[Flathead_Wiring.pdf](https://github.com/user-attachments/files/31533699/Flathead_Wiring.pdf)
 
