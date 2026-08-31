@@ -108,3 +108,9 @@ Leg Redesign
 
 I have spent some time improving the leg design in both form and lengths for femur and tibia. I have added a component that I intend to be printed in TPU at the feet in order to keep friction at the feet.
 
+
+
+Firmware Log 1:
+
+Before touching hardware, I wrote the core math the robot depends on to convert a target foot position into the three joint angles to reach it. I wrote a desktop test that does not need a microcontroller or servos to test every case. It solves IK for the target and pushes the resulting angle back through forward kinematics and check if the foot lands within 0.01mm of where it was supposed to go. Every case passed with close to no error which is good considering that while in action it will obviously be slightly less efficient and accurate, it should provide close to no margin of error considering how accurate it is now. I decided to develop this as a sanity check to have zero hardware risk so I will be ready and prepared before I start working with physical parts.
+
