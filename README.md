@@ -19,6 +19,12 @@ https://drive.google.com/file/d/12_6V4TeB604TGq49_DJ_Ktc-aOF2DAQ_/view?usp=drive
 This shows the model while viewing fusion. The robot for the most part is printed in 2 main separate pieces and is put together using m4 screws. The robot is made up of the front containing the head which will contain the main electronics and the back end containing the battery. To connect the servos together, aluminum servo horns are used for ideal strength and for ease of use.
 
 
+# Wiring
+<img width="359" height="255" alt="image" src="https://github.com/user-attachments/assets/b0aee452-b5dd-4dab-889c-eaefc6663c1c" />
+
+Attached is a basic preview of what the wiring will look like for the flathead. A more detailed file can be found in the wiring branch of this project's repository but it is included here to display how it works. As shown, the project will mostly be running off of two separate step down converters, one end for the servos and the other for the brain, which will handle the raspberry pi, esp32, and all other fundamental parts to keep the robot running.
+
+
 # Features:
 
 (Work in progress)
