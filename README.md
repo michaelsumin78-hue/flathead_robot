@@ -1,4 +1,4 @@
-Flathead Autonomous Quadruped
+# Flathead Autonomous Quadruped
 
 3D printed Autonomous Quadruped robot using camera vision, all inspired by the Cyberpunk 2077 flathead robot.
 
@@ -9,12 +9,17 @@ Flathead Autonomous Quadruped
 
 
 
-Demo Link:
+# Demo Link:
 
 https://drive.google.com/file/d/12_6V4TeB604TGq49_DJ_Ktc-aOF2DAQ_/view?usp=drive_link
 
+# CAD Model
+<img width="752" height="636" alt="image" src="https://github.com/user-attachments/assets/2db3b279-1a07-436c-baa3-af7f298ac00e" />
 
-Features:
+This shows the model while viewing fusion. The robot for the most part is printed in 2 main separate pieces and is put together using m4 screws. The robot is made up of the front containing the head which will contain the main electronics and the back end containing the battery. To connect the servos together, aluminum servo horns are used for ideal strength and for ease of use.
+
+
+# Features:
 
 (Work in progress)
 
@@ -29,7 +34,7 @@ Features:
 -Robotic arms with 3DOF per arm to pick up items
 
 
-How to run it locally:
+# How to run it locally:
 
 Available now — leg inverse kinematics (no hardware required):
 
@@ -44,7 +49,7 @@ Expected output: round-trip error of 0.0000mm on every test case, plus
 standing pose a swing phase sweep
 
 
-Coming once the hardware is built:
+# Coming once the hardware is built:
 
 [ ] ESP32-S3 firmware flash (PlatformIO project, board config TBD)
 
@@ -55,7 +60,7 @@ Coming once the hardware is built:
 [ ] Full bring-up sequence: power-on order, safety checks, first servo test
 
 
-How I made this:
+# How I made this:
 The leg geomoetry went through several revisions driven primarily by torque calculation. To add on, the project was initially intended to use dog-like leg structure but I decided to scrap that and redo the legs after looking at in game footage of the robot in Cyberpunk and seeing videos of people developing spider robots that use a different degree of rotation. When I redid, I changed the leg design visually in many ways, but I also added a slot to have a TPU printed part at the soles of the feet to allow more friction and therefore allow the robot to walk easier.
 
 The overall body was developed by using a 3D model to look around the entire body and see how I should model the robot to remain faithful to the game. I did however have to take some creative liberties of my own as I realized that certain parts of the in game robot were not desirable in my project. I added more interior space to have more room for the electronics, cut out parts of the front to have LEDS visible, adjusted certain parts to be longer or shaped differently to hold motors and what not. I also had to slice the robot in half between the leg and the back torso containing the battery as I realized not only would most commercial printers not be able to print the entire thing in one sitting because of the robot's length, but it would also take far too long as just the front of the bot takes 14 hours optimally to print.
