@@ -20,7 +20,7 @@ This shows the model while viewing fusion. The robot for the most part is printe
 
 
 # Wiring
-<img width="359" height="255" alt="image" src="https://github.com/user-attachments/assets/b0aee452-b5dd-4dab-889c-eaefc6663c1c" />
+<img width="691" height="514" alt="image" src="https://github.com/user-attachments/assets/651e75ac-2fb5-414d-802d-5c9809098b41" />
 
 Attached is a basic preview of what the wiring will look like for the flathead. A more detailed file can be found in the wiring branch of this project's repository but it is included here to display how it works. As shown, the project will mostly be running off of two separate step down converters, one end for the servos and the other for the brain, which will handle the raspberry pi, esp32, and all other fundamental parts to keep the robot running.
 
