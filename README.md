@@ -95,7 +95,7 @@ Some parts are sourced from Amazon because I couldn't find any listings on AliEx
 | ESP32 Dev Board | 1 | $5.51 | $5.51 | [link](https://www.aliexpress.com/item/32864722159.html) | Option: ESP-32 38PIN (ESP32-WROOM-32) |
 | PETG Filament | 1 | $14.69 | $14.69 | [link](https://www.amazon.com/gp/product/B07PGYHYV8/ref=ox_sc_act_title_16?smid=A3M6OB6YPLO1C&th=1) |  |
 | LiPo Charger | 1 | $37.99 | $37.99 | [link](https://www.amazon.com/gp/product/B0G6KTKQ7F/ref=ox_sc_act_title_15?smid=A96UES7Z1PS0W&psc=1) |  |
-| Raspberry Pi Zero 2W | 1 | $34.99 | $34.99 | [link](https://www.amazon.com/dp/B0FN4CN7TM) |  |
+| Raspberry Pi Zero 2W | 1 | $85.00 | $85.00 | [link](https://www.amazon.com/dp/B09LH5SBPS) | Official resellers (PiShop, SparkFun, CanaKit, Micro Center) out of stock |
 | Pi Zero Heatsink | 1 | $4.00 | $4.00 | [link](https://www.aliexpress.com/item/1005003821361392.html) |  |
 | Fuse | 1 | $14.39 | $14.39 | [link](https://www.amazon.com/dp/B07Q9PL4R6) |  |
 | Pi Zero Camera | 1 | $16.00 | $16.00 | [link](https://www.amazon.com/gp/product/B07G9VLPZH/ref=ox_sc_act_title_11?smid=A2GK66ZZ8YJ0PV&th=1) |  |
@@ -113,4 +113,4 @@ Some parts are sourced from Amazon because I couldn't find any listings on AliEx
 | Lexar 64GB MicroSD Card (A1 U3) | 1 | $22.49 | $0.00 | [link](https://www.amazon.com/dp/B0C1Y8CS3R) | Already owned - not buying; not counted in total |
 | Shipping - AliExpress | 1 | $10.00 | $10.00 | N/A | Checkout shipping for all AliExpress items |
 | Shipping - Amazon | 1 | $0.00 | $0.00 | N/A | Free with Prime |
-| **Total** | | | **$345.76** | | |
+| **Total** | | | **$395.77** | | |
