@@ -4,6 +4,14 @@
 
 <img width="762" height="527" alt="Flathead full 3D model" src="https://github.com/user-attachments/assets/cbe4c10c-e4d5-4e79-80c2-4a57103146f8" />
 
+## How it will be used
+
+This robot is mainly intended to be used for fun, walking outside or around the house. I also want to potentially make it usable as an AI companion as I want to run a small AI model on the Raspberry Pi Zero so conversations can be held.
+
+## Why I made it
+
+I made this robot mostly for myself, wanting to push my skills to the next level. The complexity of this robot is by far the biggest challenge I have tackled since I started working with electronics. I also wanted to build it to pay tribute to one of my favorite games of all time, Cyberpunk 2077.
+
 ## Demo
 
 https://drive.google.com/file/d/12_6V4TeB604TGq49_DJ_Ktc-aOF2DAQ_/view?usp=drive_link
@@ -66,6 +74,8 @@ Credit to Muhammad Qasim Sajid for creating the [rack and pinion gear](https://g
 ## Bill of Materials
 
 Also available as [BOM.csv](BOM.csv).
+
+Some parts are sourced from Amazon because I couldn't find any listings on AliExpress, and for some of the more critical parts like the battery, I wanted to get a more reliable product.
 
 | Item | Qty | Unit Cost | Total Cost | Link | Notes |
 | --- | --- | --- | --- | --- | --- |
