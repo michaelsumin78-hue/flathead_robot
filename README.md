@@ -101,4 +101,5 @@ Also available as [BOM.csv](BOM.csv).
 | RGB LED Diodes 5mm Common Anode | 1 | $8.99 | $8.99 | [link](https://www.amazon.com/gp/product/B09BHSDDZ5/ref=ox_sc_act_title_2?smid=A2FHFF9H7S4EUV&th=1) |  |
 | Power Switch (6 pack) | 1 | $5.99 | $0.00 | [link](https://www.amazon.com/dp/B07L9JWVVR) | Already owned - not buying; not counted in total |
 | Lexar 64GB MicroSD Card (A1 U3) | 1 | $22.49 | $0.00 | [link](https://www.amazon.com/dp/B0C1Y8CS3R) | Already owned - not buying; not counted in total |
-| **Total** | | | **$324.32** | | |
+| Shipping - AliExpress | 1 | $10.00 | $10.00 | N/A | Checkout shipping for all AliExpress items |
+| **Total** | | | **$334.32** | | |
