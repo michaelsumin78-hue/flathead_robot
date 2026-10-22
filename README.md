@@ -111,6 +111,6 @@ Some parts are sourced from Amazon because I couldn't find any listings on AliEx
 | RGB LED Diodes 5mm Common Anode | 1 | $8.99 | $8.99 | [link](https://www.amazon.com/gp/product/B09BHSDDZ5/ref=ox_sc_act_title_2?smid=A2FHFF9H7S4EUV&th=1) |  |
 | Power Switch (6 pack) | 1 | $5.99 | $0.00 | [link](https://www.amazon.com/dp/B07L9JWVVR) | Already owned - not buying; not counted in total |
 | Lexar 64GB MicroSD Card (A1 U3) | 1 | $22.49 | $0.00 | [link](https://www.amazon.com/dp/B0C1Y8CS3R) | Already owned - not buying; not counted in total |
-| Shipping - AliExpress | 1 | $10.00 | $10.00 | N/A | Checkout shipping for all AliExpress items |
+| Shipping - AliExpress | 1 | $30.51 | $30.51 | N/A | Per-listing shipping to NY: PCA9685 $6.30, heatsink $6.20, servo horns $5.87, speaker $5.60, ESP32 $4.01, heat shrink $2.53; all other items ship free |
 | Shipping - Amazon | 1 | $0.00 | $0.00 | N/A | Free with Prime |
-| **Total** | | | **$395.77** | | |
+| **Total** | | | **$416.28** | | |
