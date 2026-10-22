@@ -51,9 +51,6 @@ g++ -O2 -o test_ik test_ik.cpp
 ./test_ik
 ```
 
-Expected output: round-trip error of 0.0000mm on every test case, plus
-standing pose a swing phase sweep
-
 ## Coming once the hardware is built
 
 - [ ] ESP32 firmware flash (PlatformIO project, board config TBD)
