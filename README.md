@@ -4,6 +4,12 @@
 
 <img width="762" height="527" alt="Flathead full 3D model" src="https://github.com/user-attachments/assets/cbe4c10c-e4d5-4e79-80c2-4a57103146f8" />
 
+
+## Demo
+
+https://drive.google.com/file/d/12_6V4TeB604TGq49_DJ_Ktc-aOF2DAQ_/view?usp=drive_link
+
+
 ## How it will be used
 
 This robot is mainly intended to be used for fun, walking outside or around the house. I also want to potentially make it usable as an AI companion as I want to run a small AI model on the Raspberry Pi Zero so conversations can be held.
@@ -11,10 +17,6 @@ This robot is mainly intended to be used for fun, walking outside or around the 
 ## Why I made it
 
 I made this robot mostly for myself, wanting to push my skills to the next level. The complexity of this robot is by far the biggest challenge I have tackled since I started working with electronics. I also wanted to build it to pay tribute to one of my favorite games of all time, Cyberpunk 2077.
-
-## Demo
-
-https://drive.google.com/file/d/12_6V4TeB604TGq49_DJ_Ktc-aOF2DAQ_/view?usp=drive_link
 
 ## CAD Model
 
