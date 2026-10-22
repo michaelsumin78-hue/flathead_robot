@@ -72,7 +72,7 @@ Also available as [BOM.csv](BOM.csv).
 | MG996R Servos (5 pack) | 3 | $13.78 | $41.34 | [link](https://www.aliexpress.com/item/3256807209626078.html) |  |
 | MG90 Servos (8 pack) | 1 | $22.93 | $22.93 | [link](https://www.aliexpress.us/item/2251832788499811.html?gatewayAdapt=glo2usa4itemAdapt) |  |
 | TPU Filament | 1 | $9.75 | $9.75 | [link](https://www.aliexpress.com/item/3256811821156628.html) |  |
-| 2S 2200mAh 7.4V LiPo | 1 | $16.92 | $16.92 | [link](https://www.amazon.com/gp/product/B0GS2FYJJZ/ref=ox_sc_act_title_27?smid=A1KODDOPEPALCP&psc=1) |  |
+| 2S 2200mAh 7.4V LiPo | 1 | $22.99 | $22.99 | [link](https://www.amazon.com/dp/B0H8PK3YT3) | OVONIC 2S 2200mAh XT60; previous listing went unavailable |
 | XT60 Plug | 1 | $8.99 | $8.99 | [link](https://www.amazon.com/gp/product/B07QH249CR/ref=ox_sc_act_title_26?smid=A1JTH8JAMM4IYJ&psc=1) |  |
 | Buck Converter for Servos | 1 | $1.50 | $1.50 | [link](https://www.aliexpress.com/item/3256809620604479.html) |  |
 | Buck Converter for ESP | 1 | $1.50 | $1.50 | [link](https://www.aliexpress.com/item/3256808644352772.html) |  |
@@ -87,7 +87,7 @@ Also available as [BOM.csv](BOM.csv).
 | LiPo Charger | 1 | $37.99 | $37.99 | [link](https://www.amazon.com/gp/product/B0G6KTKQ7F/ref=ox_sc_act_title_15?smid=A96UES7Z1PS0W&psc=1) |  |
 | Raspberry Pi Zero 2W | 1 | $34.99 | $34.99 | [link](https://www.amazon.com/dp/B0FN4CN7TM) |  |
 | Pi Zero Heatsink | 1 | $4.00 | $4.00 | [link](https://www.aliexpress.com/item/1005003821361392.html) |  |
-| Fuse | 1 | $15.99 | $15.99 | [link](https://www.amazon.com/gp/product/B07Q9PL4R6/ref=ox_sc_act_title_12?smid=ATVPDKIKX0DER&th=1) |  |
+| Fuse | 1 | $14.39 | $14.39 | [link](https://www.amazon.com/dp/B07Q9PL4R6) |  |
 | Pi Zero Camera | 1 | $16.00 | $16.00 | [link](https://www.amazon.com/gp/product/B07G9VLPZH/ref=ox_sc_act_title_11?smid=A2GK66ZZ8YJ0PV&th=1) |  |
 | Jumper Wires | 1 | $4.48 | $4.48 | [link](https://www.aliexpress.com/item/1005002599108827.html) |  |
 | MAX98357A I2S Amplifier | 1 | $5.52 | $5.52 | [link](https://www.aliexpress.us/item/3256811506362905.html) |  |
@@ -102,4 +102,5 @@ Also available as [BOM.csv](BOM.csv).
 | Power Switch (6 pack) | 1 | $5.99 | $0.00 | [link](https://www.amazon.com/dp/B07L9JWVVR) | Already owned - not buying; not counted in total |
 | Lexar 64GB MicroSD Card (A1 U3) | 1 | $22.49 | $0.00 | [link](https://www.amazon.com/dp/B0C1Y8CS3R) | Already owned - not buying; not counted in total |
 | Shipping - AliExpress | 1 | $10.00 | $10.00 | N/A | Checkout shipping for all AliExpress items |
-| **Total** | | | **$334.32** | | |
+| Shipping - Amazon | 1 | $0.00 | $0.00 | N/A | Free with Prime |
+| **Total** | | | **$338.79** | | |
